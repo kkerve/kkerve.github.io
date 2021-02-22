@@ -1,0 +1,43 @@
+body {
+    background-image: url("/images/bg-stripes.png");
+}
+
+div#wrapper{
+    color:#333333;
+    background-color: #fff;
+    padding: 30px;
+    margin: 40px;
+}
+
+nav{
+    margin: 30px 0;
+    font-size: 200%;
+}
+
+a{
+    color: #0000ff;
+}
+
+h1{
+    color: #595DFF;
+}
+h2{
+    font-size: 120%;
+}
+table,th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    background-color: #ffffff;
+}
+
+table{
+    width: 100%;
+}
+th{
+    color: #ffffff;
+    background-color: #595DFF;
+    padding: 8px
+}
+td{
+    padding: 8px;
+}
